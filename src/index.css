@@ -1,0 +1,14 @@
+/* html,body {
+    overflow: hidden;
+  
+  } */
+
+/* *,html,body {
+  box-sizing: border-box;
+} */
+@font-face {
+    font-family: "MonumentExtended";
+    src: local("MonumentExtended"),
+     url("./font/MonumentExtended-Regular.otf") format("opentype"); /*ttf = truetype */
+    font-weight: bold;
+    }
