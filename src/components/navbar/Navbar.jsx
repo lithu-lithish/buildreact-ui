@@ -16,7 +16,7 @@ const Navbar = () => {
             // paddingBottom: "5%",
           }}
         >
-          DashBoard
+          Dashboard
         </h1>
         <div className="items" style={{ marginTop: "2.5%" }}>
           <div className="item">
